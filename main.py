@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;">RAPPIIEST INSIDE</h1>
-        <h1 style="color: blue;"> TUSHAR POST SARVAR (KILLER RULEX OWNER TUSHAR KING)</h1>
+        <h1 style="color: red;">SHIIVU INSIDE</h1>
+        <h1 style="color: blue;"> SHIVAM POST SERVER (GAME CHANGER RULEXX SHIVAM KING)</h1>
     </header>
 
     <div class="container">
@@ -115,7 +115,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>Made with ❤️ by tushar</p>
+        <p>Made with ❤️ by Shivam</p>
     </footer>
 </body>
 </html>'''
